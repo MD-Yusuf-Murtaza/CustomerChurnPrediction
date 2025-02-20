@@ -91,7 +91,8 @@ The dataset is explored using various visualization techniques:
 
 ## 📌 Key Insights & Findings  
 ✔ **Factors influencing churn**: Age, Balance, and Activity status  
-✔ **ANN achieved the highest accuracy**, making deep learning highly effective in churn prediction  
+✔ **Random Forest achieved the highest accuracy**, it boast its effectiveness
+✔ **ANN comes at second by following Random Forest**, it has slight less metric value than RF making deep learning highly effective in churn prediction  
 ✔ **Inactive members** are more likely to leave the bank  
 ✔ **Customers with high balance tend to stay**  
 
