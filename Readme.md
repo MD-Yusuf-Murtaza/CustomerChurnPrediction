@@ -66,8 +66,8 @@ The dataset is explored using various visualization techniques:
 ## 🤖 Machine Learning Models Implemented  
 
 ### 🔹 **Data Preprocessing & Transformation**  
+- Droping unnecessary Columns
 - Feature encoding  
-- Handling missing values  
 - Scaling  
 
 ### 🔹 **Classification Models Used**  
